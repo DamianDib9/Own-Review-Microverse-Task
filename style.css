@@ -1,0 +1,53 @@
+
+#navbar{
+    height: 100%;
+    width: 250px;
+ position: fixed;
+ align-items: center;
+ top:0;
+ background-color: lightblue;
+ 
+ }
+ 
+ *{
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+ 
+ #Safety_First{
+     font-size: 25px;
+     
+ }
+ #Bike_fit{
+     font-size: 25px;
+     
+ }
+ #Mechanical_Safety{
+     font-size: 25px;
+     
+ }
+ #First_Ride{
+     font-size: 25px;
+     
+ }
+ #Basics{
+     font-size: 25px;
+     
+ }
+ 
+ header{ font-size: medium;
+ font-weight: 400;}
+ 
+ @media only screen and (max-width: 800px) {
+     body {
+       background-color: red;
+     }
+   }
+   
+ main{
+     padding-left: 300px;
+ }
+ code{
+     box-sizing: content-box;
+     background-color: gray;
+    color: white;
+ }
